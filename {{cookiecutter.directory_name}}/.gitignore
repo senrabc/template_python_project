@@ -1,0 +1,11 @@
+
+# Ignore the temp directory that will contain data and temp like stuff
+tmp/
+
+
+# Ignore python like stuff and crap from your MAC
+__pycache__
+.cache
+.coverage
+
+.DS_Store

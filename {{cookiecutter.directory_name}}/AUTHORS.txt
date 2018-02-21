@@ -1,0 +1,5 @@
+# based on example at jquery team example 
+# https://raw.githubusercontent.com/jquery/jquery/master/AUTHORS.txt
+
+# Authors ordered by first contribution.
+Christopher P. Barnes (senrabc@gmail.com)
